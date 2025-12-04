@@ -1,0 +1,10 @@
+{
+  "Matius": {
+    "1": ["Kelahiran Yesus Kristus, anak Daud, anak Abraham.", "Silang sejarah Yesus."],
+    "2": ["Kunjungan orang Majus dari Timur."]
+  },
+  "Markus": {
+    "1": ["Injil Yesus Kristus, Anak Allah.", "Mulai pelayanan Yesus."]
+  }
+  // Tambahkan kitab lain sampai Wahyu
+}

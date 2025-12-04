@@ -1,0 +1,10 @@
+{
+  "Tobit": {
+    "1": ["Kisah Tobit di negeri Asyur."],
+    "2": ["Perintah Allah dan iman Tobit."]
+  },
+  "Yudit": {
+    "1": ["Kisah keberanian Yudit."]
+  }
+  // Tambahkan kitab lain: Kebijaksanaan, Sirakh, Barukh, 1 & 2 Makabe, Tambahan Daniel & Ester
+}
